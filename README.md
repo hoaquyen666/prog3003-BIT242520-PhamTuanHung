@@ -1,1 +1,1 @@
-advanced Java exercises
+## 📁 Project Structure
