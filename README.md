@@ -87,5 +87,26 @@ prog3003-BIT242520-PhamTuanHung
 │ └── Ex4_C3/
 │       └── src/
 │            └── Main.java
-
+│
+├──Chapter04/
+│ │
+│ ├── Ex1_C4/
+│ │     └── src/
+│ │          ├── Main.java
+│ │          └── MathOperation.java
+│ ├── Ex2_C4/
+│ │     └── src/
+│ │          └── Main.java
+│ ├── Ex3_C4/
+│ │     └── src/
+│ │          └── CheckEvenNumber.java
+│ ├── Ex4_C4/
+│ │     └── src/
+│ │          └── Money.java
+│ ├── Ex5_C4/
+│ │     └── src/
+│ │          └── GetRandomNumber.java
+│ └── Ex6_C4/
+│       └── src/
+│            └── Stream.java
 ```
